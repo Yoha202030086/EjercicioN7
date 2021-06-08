@@ -1,0 +1,19 @@
+InicioRuleta
+ var ruleta 
+ var pares
+ var impares 
+ var ceros
+Escribir "generar num"
+leer(num)
+ruleta = 0 <= 36
+pares=num*%
+impares=num*%
+ceros=num*%
+
+Escribir "El porcentaje de los numeros pares es:"
+ leer(porcentaje)
+Escribir "El porcentaje de los numeros impares es:"
+ leer(porcentaje)
+Escribir "El porcentaje de ceros es:"
+ leer(porcentaje)
+FinRuleta 
